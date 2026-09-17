@@ -1,0 +1,68 @@
+I2VA 提示词 - Natsume 精灵秋叶原
+====================================
+
+【原始输入】
+账号：@natsume0v0（Natsume 精灵）
+角色：银发精灵 Cosplay（贝尔萨尔秋叶原舞台）
+推文内容：本日もベルサール秋葉原でお待ちしております。
+天気結構暑いので、アイスティーもいい選択かもしれませんね。店長さん達もどうかお体にお気をつけくださいませ。
+需求：I2VA 模式，8-15秒，有展示动作和日语台词
+主题建议：「炎热夏日的秋叶原邀约」——银发精灵小姐姐在2周年舞台上摇扇邀你来喝茶的活泼瞬间
+
+---
+
+【生成结果】
+时长：约12秒（版本一）/ 10-12秒（版本二）
+格式：MiniMax H3 I2VA
+版本：纯委托（正文零外貌词）
+
+=====================================
+版本一（优雅风格·12秒）
+=====================================
+
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, high-resolution cosplay photography style with soft stage lighting and shallow depth of field. The frame opens fully matching <Picture 1>: she sits on a black stool on a stage filled with stacked CRT TVs and anime posters. She holds a white folding fan with blue-and-yellow tips in her right hand raised to the side, left gloved hand near her face, one leg crossed and elevated. She begins a graceful display sequence: slowly waving the fan in front of her chest to create a gentle breeze, tilting her head with a soft smile toward the camera, then uncrossing her leg and shifting into a more upright seated pose while continuing to fan herself. With a calm, elegant, slightly playful female voice (S1) she speaks clearly in Japanese: <d>[Japanese] 本日もベルサール秋葉原でお待ちしております。天気結構暑いので、アイスティーもいい選択かもしれませんね。店長さん達もどうかお体にお気をつけくださいませ。</d> She punctuates the lines with small fan flourishes and a final graceful hand gesture near her cheek, holding the refined pose as the clip ends around the 12-second mark.
+
+overall_soundscape: Soft stage ambience with faint electronic hum from the surrounding CRT televisions, subtle fabric rustle of the costume and stockings as she shifts, light whooshing of the paper fan cutting the air, and quiet natural breaths between her spoken lines.
+
+non_diegetic_music: Light, elegant piano and soft string pads with a gentle, airy tempo that supports the refined atmosphere without overpowering the dialogue.
+
+=====================================
+版本二（活泼风格·10-12秒）
+=====================================
+
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, high-resolution cosplay photography style with soft stage lighting. The frame opens fully matching <Picture 1>: she sits on the black stool amid the CRT TV stage, holding the white fan. She starts a lively display: playfully waving the fan toward herself, shifting her crossed leg, and turning to face the camera with a bright smile. With a lively, cheerful female voice (S1) she clearly says in natural spoken Japanese: <d>[Japanese] 今日もベルサール秋葉原で待ってるよ～！めっちゃ暑いからアイスティーとかどう？店長さんたちも気をつけてね！</d> She punctuates the lines with a quick fan flourish and a cute tilt of her head, holding the pose as the clip ends around 10–12 seconds.
+
+overall_soundscape: Soft stage ambience with faint TV hum, light fabric rustle from her movements, the soft whoosh of the paper fan, and natural breaths between her lines.
+
+non_diegetic_music: Light, upbeat piano with soft playful strings, keeping a cheerful and airy feel that supports the lively tone without overpowering the dialogue.
+
+---
+
+图片映射：
+- Picture 1：上传的银发精灵 Cosplay 参考图
+
+台词汇总：
+版本一（优雅）：
+1. "本日もベルサール秋葉原でお待ちしております。天気結構暑いので、アイスティーもいい選択かもしれませんね。店長さん達もどうかお体にお気をつけくださいませ。"
+   — 优雅、略带俏皮的女性声音，日语
+
+版本二（活泼）：
+1. "今日もベルサール秋葉原で待ってるよ～！めっちゃ暑いからアイスティーとかどう？店長さんたちも気をつけてね！"
+   — 活泼、开朗的女性声音，日语
+
+镜头结构：
+- Shot 1（0-12s）：单镜头展示动作 + 日语台词
+
+X 平台文案（中文版）：
+标题：Natsume✨枣糕的维琳娜动起来了 ⚡
+简介：@natsume0v0 的静态cos照，用MiniMax-H3直接生成电影级动态+自然日语台词。
+标签：#MiniMaxH3 #AI视频 #CosplayAI #动态设计 #AIart
+
+X 平台文案（日文版）：
+标题：Natsume✨枣糕のヴェリナが動き出した ⚡
+简介：@natsume0v0 の静止コス写真をMiniMax-H3で映画級モーション＋自然な日本語セリフに。
+タグ：#MiniMaxH3 #AIvideo #CosplayAI #MotionDesign #AIart

@@ -1,0 +1,219 @@
+[
+ {
+  "wid": "2094047998945804289",
+  "name": "空白工作流",
+  "nodes": 76,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2094052512046268418",
+  "name": "Open Source-NiuLai",
+  "nodes": 37,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2094052312632279041",
+  "name": "Minimax H3 Redraw Upscaling",
+  "nodes": 76,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2094052275770015746",
+  "name": "Minimax H3 Redraw Upscaling",
+  "nodes": 76,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2094047916351569921",
+  "name": "Minimax H3 Redraw Upscaling",
+  "nodes": 76,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2092075451632529410",
+  "name": "Cutting Vegetables Dance",
+  "nodes": 27,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2089956372913143809",
+  "name": "Open Source-NiuLai",
+  "nodes": 37,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2092075457226293249",
+  "name": "MiniMax H3 Prompt Optimization",
+  "nodes": 4,
+  "has_minimax": true,
+  "text_nodes": [
+   "SaveText"
+  ],
+  "has_gif": false
+ },
+ {
+  "wid": "2091944071484219393",
+  "name": "Dasiwa版Minimax参考生视频",
+  "nodes": 29,
+  "has_minimax": true,
+  "text_nodes": [
+   "CR Prompt Text"
+  ],
+  "has_gif": true
+ },
+ {
+  "wid": "2091867828948385793",
+  "name": "空白工作流",
+  "nodes": 26,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2091467436515213313",
+  "name": "Ma Baoguo 01",
+  "nodes": 26,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2086034752038477826",
+  "name": "China Travel",
+  "nodes": 69,
+  "has_minimax": true,
+  "text_nodes": [
+   "LTXAVTextEncoderLoader",
+   "CLIPTextEncode"
+  ],
+  "has_gif": true
+ },
+ {
+  "wid": "2088493861936054273",
+  "name": "Fitness",
+  "nodes": 69,
+  "has_minimax": true,
+  "text_nodes": [
+   "LTXAVTextEncoderLoader",
+   "CLIPTextEncode"
+  ],
+  "has_gif": true
+ },
+ {
+  "wid": "2090643144849682434",
+  "name": "Seiya",
+  "nodes": 33,
+  "has_minimax": true,
+  "text_nodes": [
+   "ShowText|pysssss",
+   "CR Text Concatenate",
+   "Text",
+   "CR Text"
+  ],
+  "has_gif": false
+ },
+ {
+  "wid": "2091338009479553026",
+  "name": "Optimus Prime",
+  "nodes": 21,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2090109997605752834",
+  "name": "Flying Phone",
+  "nodes": 25,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2090413838385913857",
+  "name": "空白工作流",
+  "nodes": 27,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2090452045313011713",
+  "name": "MiniMax H3 All-in-One Raw Image Editing",
+  "nodes": 36,
+  "has_minimax": true,
+  "text_nodes": [
+   "CR Text Concatenate",
+   "Text",
+   "CR Text",
+   "ShowText|pysssss"
+  ],
+  "has_gif": false
+ },
+ {
+  "wid": "2088493852649865218",
+  "name": "Chicky Flirty Dance",
+  "nodes": 29,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2074070123614396418",
+  "name": "Minimax+H3+I2v_First-Last Frame+(Easy to use) (2)",
+  "nodes": 38,
+  "has_minimax": true,
+  "text_nodes": [
+   "YC_SingleTextNode",
+   "CLIPTextEncode"
+  ],
+  "has_gif": true
+ },
+ {
+  "wid": "2037851268776988673",
+  "name": "WhistleVibe｜哨音男银版",
+  "nodes": 27,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2085247491449462785",
+  "name": "Original H3",
+  "nodes": 22,
+  "has_minimax": true,
+  "text_nodes": [
+   "RHMiniMaxH3Ref2VATextEncoderLoader"
+  ],
+  "has_gif": true
+ },
+ {
+  "wid": "2070427962498969602",
+  "name": "ONE MiniMax H3 Enhanced workflow, for Ref2VA and FL2VA platforms",
+  "nodes": 57,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ },
+ {
+  "wid": "2084608556926996481",
+  "name": "MiniMax H3 Image to Video",
+  "nodes": 21,
+  "has_minimax": true,
+  "text_nodes": [],
+  "has_gif": true
+ }
+]

@@ -1,0 +1,31 @@
+# Ref2VA output skeleton — full-reference mode, six sections in fixed order.
+# Labels: <Subject N> reusable visible content; <Picture N> concrete frame anchors;
+# <Video N> whole-video source; <Audio N> audio signals. Labels keep one meaning.
+# Identity rule applies: people defined by images are delegated, never re-described
+# (write appearance only inside subject_definitions as image-derived traits).
+# Delete this comment block before delivery.
+
+subject_definitions:
+<Subject 1> is {CHARACTER}, with all facial features, hairstyle, and outfit taken from <Picture 1>.
+<Subject 2> is {SCENE_OR_ENVIRONMENT} established by <Picture 2>.
+<Audio 1> is the voice-timbre reference for <Subject 1> (S1).   # delete if unused
+
+summary:
+[{TASK_TYPES_E_G_REFERENCE_GENERATION}] The target video shows <Subject 1> {ONE_SENTENCE_ARC} across {SHOT_COUNT} shots, using <Picture 2> as the scene anchor and <Audio 1> as the timbre reference.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - identity, hairstyle, and outfit retained unchanged from <Picture 1>.
+<Subject 2> (appears in [Shot 1], [Shot 3]): fully_preserved - environment layout and lighting retained from <Picture 2>.
+<Audio 1>: reference - delivery follows the referenced timbre without copying the signal.   # delete if unused
+
+detailed_description:
+{STYLE_IN_ONE_OR_TWO_SENTENCES_BEFORE_SHOT_1}
+[Shot 1] A medium shot establishes <Subject 2>. <Subject 1> {POSITION_AND_ACTION}; describe what is actually visible: composition, lighting, motion, and any cited label at its first appearance. {DIALOGUE_IF_ANY}
+[Shot 2] At {MM_SS_MMM}, the shot cuts to {NEW_FRAMING}. <Subject 1> {ACTION_WITH_STATE_CHANGE}.
+[Shot 3] At {MM_SS_MMM}, {FINAL_BEAT_AND_LANDING}.
+
+overall_soundscape:
+{AMBIENCE_AND_PHYSICAL_SOUNDS_1_TO_4_SENTENCES}
+
+non_diegetic_music:
+{SCORE_DESCRIPTION_OR_N_A}

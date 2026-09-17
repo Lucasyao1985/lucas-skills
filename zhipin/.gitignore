@@ -1,0 +1,24 @@
+# 依赖（保留在磁盘，不入库）
+node_modules/
+
+# Cookie 文件（含登录凭据）
+cookies.json
+cookies.txt
+
+# 调试产物
+debug.png
+*.log
+
+# 公司定向抓取的中间产物
+_company.html
+_jobs.json
+_job_skills.json
+_jobs_detail.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db

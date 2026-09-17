@@ -1,0 +1,13 @@
+# I2VA output skeleton — single picture is the first frame at 0.00s.
+# First line below is VERBATIM fixed except the picture/shot numbers.
+# Identity rule: if <Picture 1> defines a person, never describe face/hair/skin/
+# body/fixed outfit; delegate once via "the person shown in <Picture 1>".
+# Delete this comment block before delivery.
+
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] {STYLE_DERIVED_FROM_PICTURE}, the person shown in <Picture 1> {FIRST_FRAME_ANCHOR_PRESERVING_APPEARANCE_POSITION_ENVIRONMENT}. {CAMERA_MOTION_SENTENCE} as {ACTION_ONSET}. [Shot 2] At {MM_SS_MMM}, the camera cuts/pushes/arcs ... {CONTINUOUS_DEVELOPMENT}. [Shot N] At {MM_SS_MMM}, {RESULT_OR_REACTION}. The frame fades to black by {TOTAL_DURATION}.
+
+overall_soundscape: {AMBIENCE_AND_PHYSICAL_SOUNDS_ANCHORED_TO_PICTURE_ENVIRONMENT}
+
+non_diegetic_music: {SCORE_DESCRIPTION_OR_N_A}

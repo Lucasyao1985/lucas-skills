@@ -1,0 +1,65 @@
+# Funny Face Doll I2VA English Prompt Template
+
+## Template Structure
+
+```
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic vertical footage in [lighting], a static medium shot frames a [gender description] [posture] in [setting], exactly as shown in <Picture 1> — [hair], [glasses/accessories], [top], [bottom]. [Hand pose description]. [Background details behind]. [Initial action transition].
+
+[Shot 2] At 00:01.000, the camera cuts to the identical framing while [her/his] head has instantly morphed into a giant cartoon child's head — [cartoon expression 1 details] — [her/his] real [hair/accessories] still [retained state], [gentle movement].
+
+[Shot 3] At 00:01.500, the shot cuts back to [her/his] real face as [she/he] [recovery action 1], [hair/accessory movement].
+
+[Shot 4] At 00:02.000, the shot cuts to [her/his] [cartoon expression 2] — [real elements retained], [overlay action].
+
+[Shot 5] At 00:02.500, the shot cuts to [cartoon expression 3], while [her/his] blurred hands sweep quickly past [her/his] cheeks.
+
+[Shot 6] At 00:03.000, the shot cuts to [cartoon expression 1 variant] once more, [her/his] eyes darting toward the left of frame.
+
+[Shot 7] At 00:03.500, the shot cuts to [cartoon expression 4], both arms raised high.
+
+[Shot 8] At 00:04.000, the shot cuts to [cartoon expression 5], [hand action].
+
+[Shot 9] At 00:04.500, the shot cuts to [her/his] real face with [recovery pose 2], glancing toward the left of frame with a playful smirk.
+
+[Shot 10] At 00:05.000, the shot cuts to [her/his] flinging both arms wide open, eyes closed and chin lifted in bliss; [her/his] arms slowly sink as [she/he] [returns to initial pose], offering the camera a soft closed-lip smile.
+
+[Shot 11] At 00:06.500, the shot cuts as [giant prop description] rises into frame from the bottom-left corner, and [she/he] turns toward it with a delighted open smile.
+
+[Shot 12] At 00:07.000, the shot cuts to [her/his] throwing both hands up beside [her/his] head like claws, mouth wide open in an exaggerated laugh, the [prop] momentarily out of frame.
+
+[Shot 13] At 00:07.500, the shot cuts to [her/his] [prop interaction pose]; [final expression]; [she/he] holds this pose as the video ends.
+
+overall_soundscape: [Setting-appropriate ambient sounds], each sudden pose change is punctuated by [clothing fabric sound], and one hearty open-mouthed laugh bursts out near the end.
+
+non_diegetic_music: An upbeat electronic-pop track at a fast tempo with a steady four-on-the-floor beat, bright synth hooks, and punchy accents landing on each jump cut, sustaining full energy until the video ends.
+
+要点说明：
+- 首帧锚定：Shot 1 完整复刻图片 1 的[scene/costume/accessories/pose]，再向后发展动作。
+- 跳切结构：13 个镜头对应原片的卡点跳切，切点严格递增且都在 8 秒内；固定机位全程不变。
+- 无对白：原片无说话内容，故无 speaker ID；笑声归入 overall_soundscape，BGM 属于角色听不到的后期音乐，归入 non_diegetic_music。
+- [Prop ratio note] (if prop included).
+- [Cartoon style note] (if specific style like Maruko-chan).
+```
+
+## Variable Reference
+
+| Variable | Description | Example |
+|---|---|---|
+| `[lighting]` | Scene lighting | warm natural light streaming in from the right / bright natural daylight |
+| `[gender description]` | Character gender | a young East Asian woman / a muscular East Asian man |
+| `[posture]` | Standing/sitting | seated on tatami / standing behind a podium |
+| `[setting]` | Environment | a traditional Japanese room / a rustic café table |
+| `[hair]` | Precise hair description | chin-length black bob with straight bangs / short black hair |
+| `[glasses/accessories]` | Accessories | red-purple half-rim rectangular glasses / rimless glasses / none |
+| `[top]` | Upper clothing | a blue crew-neck short-sleeve t-shirt / a royal-blue suit jacket over a light-blue dress shirt |
+| `[bottom]` | Lower clothing | black trousers / khaki high-waisted shorts |
+| `[Hand pose description]` | Shot 1 hand position | her left hand holds a white stylus pen pressed against her lips, right hand resting on her knee |
+| `[Background details behind]` | Background elements | dark wooden sliding partition doors, a reddish-brown wooden cabinet, tatami mat flooring |
+| `[Initial action transition]` | Transition from start to first cut | She lowers the stylus, then raises both arms overhead until her hands meet in a peaked roof shape |
+| `[cartoon expression 1-6]` | 6 expressions from the expression library |
+| `[real elements retained]` | What stays real | her real black bob hair and red-purple glasses frame remain in place |
+| `[giant prop description]` | Prop appearance and size | an oversized cartoon cigarette prop (white cylindrical body, orange filter tip, wisps of white smoke) |
+| `[Setting-appropriate ambient sounds]` | Matching ambience | Faint creaks of a wooden Japanese floor mix with distant cicada chirps outside the window |
+| `[clothing fabric sound]` | Fabric-specific sound | a soft cotton t-shirt rustle / a crisp rustle of suit fabric |

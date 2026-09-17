@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance to MiniMax H3 Converter"
+  short_description: "Convert Seedance 2.0/2.5 prompts into MiniMax H3 format"
+  default_prompt: "Use $minimax-seedance-h3-prompt-converter to convert this Seedance prompt into a production-ready MiniMax H3 generation prompt."

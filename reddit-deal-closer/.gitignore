@@ -1,0 +1,8 @@
+# Reddit authentication cookies — DO NOT COMMIT
+cookies.txt
+
+# Deal pipeline data — local business data
+deals/
+
+# Exceptions: keep the pipeline template
+!deals/pipeline.md

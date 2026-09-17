@@ -1,0 +1,27 @@
+# Chrome 持久化 Profile（含登录态敏感数据）
+.chrome-profile/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Cookie 文件（含登录凭据）
+cookies.json
+
+# 调试输出
+debug/
+
+# 价格监控数据
+monitors/
+
+# 生成的报告
+reports/
+
+# 测试临时文件
+*.tmp
+/tmp/
+
+# 系统文件
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+# T2VA output skeleton — pure text, no alignment instruction line.
+# Fill {PLACEHOLDERS}; delete this comment block before delivery.
+# Rules: [Shot 1] opens; later shots start with strictly increasing "At MM:SS.mmm".
+# Camera motion = type + amplitude + speed as natural English sentences.
+# Dialogue inside <d>[Language] ...</d> with stable speaker IDs (S1)...
+
+integrated_multimodal_description: [Shot 1] {STYLE_OPENING_LIVE_ACTION_CINEMATIC_2D_3D}, {OPENING_SHOT_SIZE_AND_COMPOSITION}. {CAMERA_MOTION_SENTENCE} as {SUBJECT_ACTION}. {ADDITIONAL_BEATS_OR_DIALOGUE_WITH_SPEAKER_ID}. [Shot 2] At {MM_SS_MMM}, the camera cuts to {NEW_INFORMATION}: {ACTION_AND_REACTION}. [Shot N] At {MM_SS_MMM}, {FINAL_BEAT}. The frame fades to black by {TOTAL_DURATION}.
+
+overall_soundscape: {AMBIENCE_AND_PHYSICAL_SOUNDS_1_TO_4_SENTENCES}
+
+non_diegetic_music: {INSTRUMENTATION_TEMPO_RHYTHM_1_TO_3_SENTENCES_OR_N_A}

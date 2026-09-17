@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax CFace 可爱脸病毒短视频"
+  short_description: "角色参考图 → 可爱搞怪变脸 H3 病毒视频提示词"
+  default_prompt: "Use $minimax-cface to turn this character reference image into a viral cute-face MiniMax-H3 video prompt."

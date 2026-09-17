@@ -1,0 +1,56 @@
+{
+    "products": [
+        {
+            "name": "小米15 Ultra 骁龙8至尊版 5G手机 16GB+512GB 白色",
+            "price": 5999,
+            "original_price": 6499,
+            "discount": "立减500",
+            "final_price": 5499,
+            "shop": "小米京东自营旗舰店",
+            "rating": 4.9,
+            "rating_count": 12580,
+            "image": "https://img14.360buyimg.com/n1/jfs/t1/1234567890/1234567890/1234567890.jpg",
+            "coupons": ["满5000减300", "Plus会员专享券200元"],
+            "analysis": "当前价格处于历史低位，配合满减和Plus会员券，到手价5499元，性价比极高。",
+            "analysis_badge": "badge-good",
+            "analysis_text": "🟢 值得买"
+        },
+        {
+            "name": "vivo X300 Pro 天玑9400 5G手机 16GB+512GB 蓝色",
+            "price": 5499,
+            "original_price": 5999,
+            "discount": "立减500",
+            "final_price": 5199,
+            "shop": "vivo京东自营旗舰店",
+            "rating": 4.8,
+            "rating_count": 8960,
+            "image": "https://img14.360buyimg.com/n1/jfs/t1/9876543210/9876543210/9876543210.jpg",
+            "coupons": ["满5000减200"],
+            "analysis": "价格适中，影像系统优秀，适合摄影爱好者。",
+            "analysis_badge": "badge-watch",
+            "analysis_text": "🟡 可观望"
+        },
+        {
+            "name": "OPPO Find X9 骁龙8至尊版 5G手机 16GB+512GB 黑色",
+            "price": 5299,
+            "original_price": 5799,
+            "discount": "立减500",
+            "final_price": 4999,
+            "shop": "OPPO京东自营旗舰店",
+            "rating": 4.7,
+            "rating_count": 6540,
+            "image": "https://img14.360buyimg.com/n1/jfs/t1/5678901234/5678901234/5678901234.jpg",
+            "coupons": ["满5000减200", "新人首单优惠100元"],
+            "analysis": "价格最具竞争力，配置均衡，适合预算有限用户。",
+            "analysis_badge": "badge-good",
+            "analysis_text": "🟢 值得买"
+        }
+    ],
+    "price_history": [6299, 6199, 5999, 5899, 5799, 5699, 5599, 5499, 5399, 5299],
+    "recommendations": [
+        {"label": "💰 性价比之王", "value": "OPPO Find X9"},
+        {"label": "⚡ 配置最强", "value": "小米15 Ultra"},
+        {"label": "📷 影像最佳", "value": "vivo X300 Pro"},
+        {"label": "🎯 综合推荐", "value": "小米15 Ultra"}
+    ]
+}

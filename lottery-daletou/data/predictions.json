@@ -1,0 +1,2280 @@
+[
+  {
+    "timestamp": "2026-04-01 10:46",
+    "based_on": "2026033",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          11,
+          15,
+          20,
+          21,
+          28
+        ],
+        "back": [
+          1,
+          9
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          2,
+          6,
+          15,
+          31,
+          34
+        ],
+        "back": [
+          2,
+          9
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          2,
+          15,
+          24,
+          27,
+          34
+        ],
+        "back": [
+          4,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          11,
+          16,
+          20,
+          25,
+          30
+        ],
+        "back": [
+          10,
+          11
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 7,
+        "score": 3.39
+      },
+      {
+        "rank": 2,
+        "num": 3,
+        "score": 3.0
+      },
+      {
+        "rank": 3,
+        "num": 4,
+        "score": 3.0
+      }
+    ],
+    "actual": {
+      "period": "26034",
+      "front": [
+        11,
+        12,
+        25,
+        26,
+        27
+      ],
+      "back": [
+        8,
+        11
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 2,
+        "hit_back": 1,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-01 10:49",
+    "based_on": "2026033",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          2,
+          7,
+          19,
+          24,
+          27
+        ],
+        "back": [
+          3,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          1,
+          6,
+          20,
+          27,
+          31
+        ],
+        "back": [
+          9,
+          12
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          6,
+          11,
+          15,
+          22,
+          34
+        ],
+        "back": [
+          4,
+          7
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          2,
+          8,
+          19,
+          27,
+          30
+        ],
+        "back": [
+          1,
+          11
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 7,
+        "score": 3.39
+      },
+      {
+        "rank": 2,
+        "num": 3,
+        "score": 3.0
+      },
+      {
+        "rank": 3,
+        "num": 4,
+        "score": 3.0
+      }
+    ],
+    "actual": {
+      "period": "2026034",
+      "front": [
+        11,
+        12,
+        25,
+        26,
+        27
+      ],
+      "back": [
+        8,
+        11
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 1,
+        "hit_back": 1,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-01 22:50",
+    "based_on": "26034",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          3,
+          4,
+          6,
+          24,
+          35
+        ],
+        "back": [
+          4,
+          9
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          7,
+          12,
+          25,
+          26,
+          30
+        ],
+        "back": [
+          4,
+          8
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          4,
+          10,
+          13,
+          22,
+          23
+        ],
+        "back": [
+          8,
+          12
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          13,
+          14,
+          19,
+          27,
+          28
+        ],
+        "back": [
+          2,
+          7
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 7,
+        "score": 3.61
+      },
+      {
+        "rank": 2,
+        "num": 5,
+        "score": 3.39
+      },
+      {
+        "rank": 3,
+        "num": 12,
+        "score": 3.07
+      }
+    ],
+    "actual": {
+      "period": "26034",
+      "front": [
+        11,
+        12,
+        25,
+        26,
+        27
+      ],
+      "back": [
+        8,
+        11
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 3,
+        "hit_back": 1,
+        "prize": "八等奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-23 16:03",
+    "based_on": "26034",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          4,
+          13,
+          15,
+          19,
+          24
+        ],
+        "back": [
+          6,
+          8
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          1,
+          14,
+          19,
+          20,
+          32
+        ],
+        "back": [
+          3,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          2,
+          15,
+          24,
+          29,
+          31
+        ],
+        "back": [
+          4,
+          7
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          3,
+          10,
+          15,
+          24,
+          32
+        ],
+        "back": [
+          5,
+          7
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 9,
+        "score": 3.7
+      },
+      {
+        "rank": 2,
+        "num": 7,
+        "score": 3.29
+      },
+      {
+        "rank": 3,
+        "num": 5,
+        "score": 2.96
+      }
+    ],
+    "actual": {
+      "period": "26048",
+      "front": [
+        11,
+        17,
+        20,
+        23,
+        35
+      ],
+      "back": [
+        1,
+        10
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-05 22:06",
+    "based_on": "26048",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          7,
+          16,
+          18,
+          25,
+          26
+        ],
+        "back": [
+          4,
+          5
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          4,
+          6,
+          13,
+          28,
+          31
+        ],
+        "back": [
+          5,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          1,
+          6,
+          15,
+          22,
+          33
+        ],
+        "back": [
+          1,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          6,
+          14,
+          15,
+          19,
+          32
+        ],
+        "back": [
+          5,
+          6
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 2,
+        "score": 4.0
+      },
+      {
+        "rank": 2,
+        "num": 3,
+        "score": 3.7
+      },
+      {
+        "rank": 3,
+        "num": 5,
+        "score": 3.07
+      }
+    ],
+    "actual": {
+      "period": "26049",
+      "front": [
+        1,
+        6,
+        14,
+        15,
+        17
+      ],
+      "back": [
+        2,
+        3
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 3,
+        "hit_back": 0,
+        "prize": "九等奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 3,
+        "hit_back": 0,
+        "prize": "九等奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-16 18:45",
+    "based_on": "26052",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          4,
+          17,
+          19,
+          26,
+          31
+        ],
+        "back": [
+          3,
+          4
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          5,
+          11,
+          19,
+          22,
+          30
+        ],
+        "back": [
+          7,
+          9
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          9,
+          16,
+          19,
+          23,
+          30
+        ],
+        "back": [
+          2,
+          2
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          5,
+          14,
+          25,
+          26,
+          30
+        ],
+        "back": [
+          6,
+          7
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 4,
+        "score": 4.0
+      },
+      {
+        "rank": 2,
+        "num": 2,
+        "score": 3.18
+      },
+      {
+        "rank": 3,
+        "num": 6,
+        "score": 3.18
+      }
+    ],
+    "actual": {
+      "period": "26068",
+      "front": [
+        3,
+        11,
+        12,
+        21,
+        22
+      ],
+      "back": [
+        6,
+        10
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 2,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-22 20:54",
+    "based_on": "26052",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          8,
+          24,
+          27,
+          30,
+          31
+        ],
+        "back": [
+          2,
+          6
+        ],
+        "score": 8
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          3,
+          6,
+          7,
+          14,
+          29
+        ],
+        "back": [
+          2,
+          10
+        ],
+        "score": 8
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          13,
+          16,
+          17,
+          23,
+          34
+        ],
+        "back": [
+          6,
+          10
+        ],
+        "score": 8
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          2,
+          4,
+          11,
+          33,
+          35
+        ],
+        "back": [
+          2,
+          7
+        ],
+        "score": 8
+      },
+      {
+        "idx": 5,
+        "strategy": "跨期保留E",
+        "front": [
+          5,
+          15,
+          19,
+          21,
+          22
+        ],
+        "back": [
+          6,
+          7
+        ],
+        "score": 8
+      },
+      {
+        "idx": 6,
+        "strategy": "热号延续F",
+        "front": [
+          1,
+          9,
+          20,
+          25,
+          26
+        ],
+        "back": [
+          7,
+          10
+        ],
+        "score": 8
+      },
+      {
+        "idx": 7,
+        "strategy": "冷热均衡G",
+        "front": [
+          10,
+          12,
+          18,
+          28,
+          32
+        ],
+        "back": [
+          2,
+          8
+        ],
+        "score": 8
+      },
+      {
+        "idx": 8,
+        "strategy": "遗漏回补H",
+        "front": [
+          7,
+          14,
+          17,
+          24,
+          33
+        ],
+        "back": [
+          2,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 9,
+        "strategy": "跨度平衡I",
+        "front": [
+          11,
+          13,
+          16,
+          19,
+          30
+        ],
+        "back": [
+          2,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 10,
+        "strategy": "尾数分散J",
+        "front": [
+          2,
+          5,
+          12,
+          32,
+          33
+        ],
+        "back": [
+          2,
+          6
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 4,
+        "score": 4.0
+      },
+      {
+        "rank": 2,
+        "num": 2,
+        "score": 3.18
+      },
+      {
+        "rank": 3,
+        "num": 6,
+        "score": 3.18
+      }
+    ],
+    "actual": {
+      "period": "26058",
+      "front": [
+        7,
+        12,
+        13,
+        18,
+        34
+      ],
+      "back": [
+        1,
+        5
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 2,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 5,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 6,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 7,
+        "hit_front": 2,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 8,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 9,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 10,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-30 00:09",
+    "based_on": "26058",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          5,
+          18,
+          24,
+          33,
+          35
+        ],
+        "back": [
+          2,
+          4
+        ],
+        "score": 8
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          8,
+          14,
+          27,
+          30,
+          34
+        ],
+        "back": [
+          4,
+          10
+        ],
+        "score": 8
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          4,
+          19,
+          20,
+          26,
+          32
+        ],
+        "back": [
+          2,
+          10
+        ],
+        "score": 8
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          7,
+          9,
+          15,
+          21,
+          29
+        ],
+        "back": [
+          4,
+          11
+        ],
+        "score": 8
+      },
+      {
+        "idx": 5,
+        "strategy": "跨期保留E",
+        "front": [
+          6,
+          11,
+          22,
+          23,
+          31
+        ],
+        "back": [
+          2,
+          11
+        ],
+        "score": 8
+      },
+      {
+        "idx": 6,
+        "strategy": "热号延续F",
+        "front": [
+          3,
+          10,
+          12,
+          13,
+          25
+        ],
+        "back": [
+          10,
+          11
+        ],
+        "score": 8
+      },
+      {
+        "idx": 7,
+        "strategy": "冷热均衡G",
+        "front": [
+          1,
+          2,
+          16,
+          17,
+          28
+        ],
+        "back": [
+          4,
+          8
+        ],
+        "score": 8
+      },
+      {
+        "idx": 8,
+        "strategy": "遗漏回补H",
+        "front": [
+          11,
+          12,
+          24,
+          26,
+          33
+        ],
+        "back": [
+          2,
+          4
+        ],
+        "score": 10
+      },
+      {
+        "idx": 9,
+        "strategy": "跨度平衡I",
+        "front": [
+          5,
+          15,
+          18,
+          25,
+          30
+        ],
+        "back": [
+          2,
+          4
+        ],
+        "score": 10
+      },
+      {
+        "idx": 10,
+        "strategy": "尾数分散J",
+        "front": [
+          4,
+          5,
+          18,
+          30,
+          31
+        ],
+        "back": [
+          2,
+          4
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 3,
+        "score": 4.0
+      },
+      {
+        "rank": 2,
+        "num": 4,
+        "score": 3.29
+      },
+      {
+        "rank": 3,
+        "num": 2,
+        "score": 3.18
+      }
+    ],
+    "actual": {
+      "period": "26061",
+      "front": [
+        10,
+        12,
+        26,
+        31,
+        35
+      ],
+      "back": [
+        2,
+        12
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 1,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 1,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 5,
+        "hit_front": 1,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 6,
+        "hit_front": 2,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 7,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 8,
+        "hit_front": 2,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 9,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 10,
+        "hit_front": 1,
+        "hit_back": 1,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-21 12:22",
+    "based_on": "26068",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          5,
+          7,
+          20,
+          31,
+          32
+        ],
+        "back": [
+          1,
+          5
+        ],
+        "score": 8
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          10,
+          22,
+          23,
+          25,
+          28
+        ],
+        "back": [
+          1,
+          2
+        ],
+        "score": 8
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          2,
+          6,
+          16,
+          29,
+          33
+        ],
+        "back": [
+          1,
+          8
+        ],
+        "score": 8
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          1,
+          11,
+          12,
+          17,
+          19
+        ],
+        "back": [
+          2,
+          5
+        ],
+        "score": 8
+      },
+      {
+        "idx": 5,
+        "strategy": "跨期保留E",
+        "front": [
+          4,
+          15,
+          26,
+          27,
+          35
+        ],
+        "back": [
+          5,
+          8
+        ],
+        "score": 8
+      },
+      {
+        "idx": 6,
+        "strategy": "热号延续F",
+        "front": [
+          3,
+          8,
+          9,
+          13,
+          18
+        ],
+        "back": [
+          1,
+          4
+        ],
+        "score": 8
+      },
+      {
+        "idx": 7,
+        "strategy": "冷热均衡G",
+        "front": [
+          14,
+          21,
+          24,
+          30,
+          34
+        ],
+        "back": [
+          2,
+          8
+        ],
+        "score": 8
+      },
+      {
+        "idx": 8,
+        "strategy": "遗漏回补H",
+        "front": [
+          3,
+          6,
+          16,
+          23,
+          35
+        ],
+        "back": [
+          1,
+          5
+        ],
+        "score": 10
+      },
+      {
+        "idx": 9,
+        "strategy": "跨度平衡I",
+        "front": [
+          5,
+          16,
+          18,
+          21,
+          34
+        ],
+        "back": [
+          1,
+          5
+        ],
+        "score": 10
+      },
+      {
+        "idx": 10,
+        "strategy": "尾数分散J",
+        "front": [
+          5,
+          11,
+          16,
+          18,
+          27
+        ],
+        "back": [
+          1,
+          5
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 3,
+        "score": 3.7
+      },
+      {
+        "rank": 2,
+        "num": 1,
+        "score": 3.18
+      },
+      {
+        "rank": 3,
+        "num": 5,
+        "score": 3.18
+      }
+    ],
+    "actual": {
+      "period": "26073",
+      "front": [
+        4,
+        10,
+        22,
+        23,
+        33
+      ],
+      "back": [
+        2,
+        12
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 3,
+        "hit_back": 1,
+        "prize": "八等奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 5,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 6,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 7,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 8,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 9,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 10,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-03 23:43",
+    "based_on": "26073",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          8,
+          9,
+          13,
+          29,
+          32
+        ],
+        "back": [
+          10,
+          12
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          11,
+          16,
+          17,
+          24,
+          25
+        ],
+        "back": [
+          1,
+          4
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          5,
+          7,
+          16,
+          25,
+          26
+        ],
+        "back": [
+          10,
+          12
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          5,
+          8,
+          15,
+          26,
+          27
+        ],
+        "back": [
+          2,
+          6
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 6,
+        "score": 3.7
+      },
+      {
+        "rank": 2,
+        "num": 9,
+        "score": 3.7
+      },
+      {
+        "rank": 3,
+        "num": 1,
+        "score": 3.18
+      }
+    ],
+    "actual": {
+      "period": "26075",
+      "front": [
+        1,
+        6,
+        16,
+        18,
+        26
+      ],
+      "back": [
+        4,
+        10
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 1,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 2,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-07 14:08",
+    "based_on": "26075",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          8,
+          9,
+          14,
+          27,
+          30
+        ],
+        "back": [
+          8,
+          9
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          8,
+          9,
+          18,
+          24,
+          27
+        ],
+        "back": [
+          3,
+          10
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          8,
+          9,
+          12,
+          19,
+          25
+        ],
+        "back": [
+          2,
+          11
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          8,
+          14,
+          21,
+          25,
+          29
+        ],
+        "back": [
+          9,
+          12
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 6,
+        "score": 3.7
+      },
+      {
+        "rank": 2,
+        "num": 9,
+        "score": 3.7
+      },
+      {
+        "rank": 3,
+        "num": 5,
+        "score": 3.18
+      }
+    ],
+    "actual": {
+      "period": "26076",
+      "front": [
+        15,
+        20,
+        27,
+        28,
+        35
+      ],
+      "back": [
+        2,
+        11
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 0,
+        "hit_back": 2,
+        "prize": "九等奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-19 13:01",
+    "based_on": "26080",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          7,
+          8,
+          17,
+          24,
+          32
+        ],
+        "back": [
+          5,
+          7
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          3,
+          8,
+          14,
+          25,
+          34
+        ],
+        "back": [
+          2,
+          10
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          8,
+          13,
+          26,
+          27,
+          28
+        ],
+        "back": [
+          6,
+          7
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          9,
+          17,
+          24,
+          26,
+          27
+        ],
+        "back": [
+          7,
+          7
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 3,
+        "score": 4.0
+      },
+      {
+        "rank": 2,
+        "num": 6,
+        "score": 4.0
+      },
+      {
+        "rank": 3,
+        "num": 9,
+        "score": 3.7
+      }
+    ],
+    "actual": {
+      "period": "26081",
+      "front": [
+        8,
+        16,
+        18,
+        24,
+        34
+      ],
+      "back": [
+        9,
+        12
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 2,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 2,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22 00:07",
+    "based_on": "26081",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          9,
+          11,
+          14,
+          22,
+          29
+        ],
+        "back": [
+          3,
+          5
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          5,
+          7,
+          15,
+          22,
+          32
+        ],
+        "back": [
+          3,
+          6
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          1,
+          9,
+          14,
+          32,
+          34
+        ],
+        "back": [
+          1,
+          11
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          5,
+          7,
+          17,
+          20,
+          32
+        ],
+        "back": [
+          4,
+          7
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 3,
+        "score": 4.0
+      },
+      {
+        "rank": 2,
+        "num": 6,
+        "score": 4.0
+      },
+      {
+        "rank": 3,
+        "num": 7,
+        "score": 3.18
+      }
+    ],
+    "actual": {
+      "period": "26082",
+      "front": [
+        16,
+        26,
+        27,
+        28,
+        34
+      ],
+      "back": [
+        2,
+        6
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-27 14:29",
+    "based_on": "26083",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          2,
+          12,
+          17,
+          27,
+          33
+        ],
+        "back": [
+          6,
+          11
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          2,
+          7,
+          18,
+          31,
+          33
+        ],
+        "back": [
+          7,
+          12
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          1,
+          17,
+          26,
+          28,
+          33
+        ],
+        "back": [
+          8,
+          12
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          2,
+          5,
+          11,
+          22,
+          34
+        ],
+        "back": [
+          1,
+          10
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 3,
+        "score": 4.0
+      },
+      {
+        "rank": 2,
+        "num": 7,
+        "score": 3.07
+      },
+      {
+        "rank": 3,
+        "num": 12,
+        "score": 3.07
+      }
+    ],
+    "actual": {
+      "period": "26086",
+      "front": [
+        10,
+        11,
+        18,
+        22,
+        35
+      ],
+      "back": [
+        6,
+        12
+      ]
+    },
+    "review": [
+      {
+        "idx": 1,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "hit_front": 1,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "hit_front": 2,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-09 15:26",
+    "based_on": "26089",
+    "window": 30,
+    "predictions": [
+      {
+        "idx": 1,
+        "strategy": "覆盖优化A",
+        "front": [
+          2,
+          8,
+          23,
+          30,
+          33
+        ],
+        "back": [
+          5,
+          12
+        ],
+        "score": 10
+      },
+      {
+        "idx": 2,
+        "strategy": "覆盖优化B",
+        "front": [
+          1,
+          8,
+          16,
+          19,
+          35
+        ],
+        "back": [
+          5,
+          11
+        ],
+        "score": 10
+      },
+      {
+        "idx": 3,
+        "strategy": "覆盖优化C",
+        "front": [
+          1,
+          8,
+          17,
+          30,
+          34
+        ],
+        "back": [
+          2,
+          11
+        ],
+        "score": 10
+      },
+      {
+        "idx": 4,
+        "strategy": "覆盖优化D",
+        "front": [
+          6,
+          9,
+          13,
+          20,
+          33
+        ],
+        "back": [
+          3,
+          7
+        ],
+        "score": 10
+      }
+    ],
+    "back_predictions": [
+      {
+        "rank": 1,
+        "num": 3,
+        "score": 3.7
+      },
+      {
+        "rank": 2,
+        "num": 7,
+        "score": 3.07
+      },
+      {
+        "rank": 3,
+        "num": 2,
+        "score": 2.96
+      }
+    ],
+    "actual": null,
+    "review": null
+  }
+]

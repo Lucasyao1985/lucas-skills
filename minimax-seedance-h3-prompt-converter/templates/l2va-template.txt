@@ -1,0 +1,12 @@
+# L2VA output skeleton — single picture is the LAST frame only.
+# Shot N in the alignment line = final shot number; S.SS = total duration.
+# Body infers a plausible preceding state and converges onto the image.
+# Delete this comment block before delivery.
+
+How the reference pictures align with the target video — <Picture 1> (from [Shot {N}]) aligns with the {S_SS}-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, {PLAUSIBLE_PRECEDING_STATE}. The camera {MOTION} as {EXPLICIT_ACTION_AND_TRANSITION_PATH}. [Shot {N}] At {MM_SS_MMM}, {GRADUAL_CONVERGENCE} until the scene lands on the exact arrangement, position, lighting, and composition established by <Picture 1>.
+
+overall_soundscape: {SOUNDS_OF_THE_TRANSITION}
+
+non_diegetic_music: {SCORE_DESCRIPTION_OR_N_A}

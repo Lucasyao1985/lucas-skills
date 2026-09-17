@@ -1,0 +1,4 @@
+interface:
+  display_name: "Funny Face Doll (鬼脸娃娃)"
+  short_description: "Generate 8-second I2VA jump-cut funny-face video prompts with cartoon expression morphs and optional giant props"
+  default_prompt: "Use $funny-face-doll to generate a MiniMax H3 I2VA funny-face-doll prompt from this portrait image."

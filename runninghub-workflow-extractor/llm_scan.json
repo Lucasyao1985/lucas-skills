@@ -1,0 +1,1637 @@
+[
+ {
+  "wid": "2094047998945804289",
+  "name": "空白工作流",
+  "nodes": 117,
+  "hits": [
+   [
+    341,
+    "RHLLMChatNode"
+   ]
+  ]
+ },
+ {
+  "wid": "2094047910773444610",
+  "name": "bernini All-in-One Video Editor Prompt Reverse Engineering Version",
+  "nodes": 39,
+  "hits": [
+   [
+    410,
+    "RHLLMChatNode"
+   ],
+   [
+    414,
+    "RHLLMChatNode"
+   ]
+  ]
+ },
+ {
+  "wid": "2092075454333661186",
+  "name": "IndexTTS-2.5-Dubbing-Timbre/Emotion Cloning-Speech Synthesis-Supports Emotion Vectors/Text",
+  "nodes": 25,
+  "hits": [
+   [
+    1,
+    "RH_IndexTTS25_Loader"
+   ],
+   [
+    3,
+    "RH_IndexTTS25_Synthesize"
+   ]
+  ]
+ },
+ {
+  "wid": "2019744529250783233",
+  "name": "RH Kling v3.0",
+  "nodes": 7,
+  "hits": [
+   [
+    26,
+    "RH_Nano_Banana2_Image2Image"
+   ],
+   [
+    38,
+    "RH_Kling30_Pro_Video"
+   ]
+  ]
+ },
+ {
+  "wid": "2025029724577206273",
+  "name": "Zimage工作流测试-philomena",
+  "nodes": 29,
+  "hits": [
+   [
+    22,
+    "RH_Captioner_Pro"
+   ],
+   [
+    27,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2046524940588949506",
+  "name": "🤯🌀 Brainrot AI  大脑过载",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2053439617449377794",
+  "name": "Myshell-RH GPT Image 2.0",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_RhartImageG2OfficialImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2053836717941116929",
+  "name": "RH-AI-Twerk-Generator-扭腰生成器",
+  "nodes": 7,
+  "hits": [
+   [
+    2,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2048759257939582978",
+  "name": "TrendMojo AI 魔力趋势",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2048728692481855490",
+  "name": "StudioSync AI 片场级动效",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2048728684579786753",
+  "name": "InstaFlow AI 爆款",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2048728700501368833",
+  "name": "TrendSync AI 潮向",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2046524982670397442",
+  "name": "🤨✨RizzFace AI 魅惑变脸",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2046498279583649794",
+  "name": "👶 BabyMoves AI 宝宝跳舞",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2048759247063752705",
+  "name": "VibeSync AI 节奏大师",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2048728708428599297",
+  "name": "Myshell-SoulLink AI: Video Chat 视频交互",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2048728717014343682",
+  "name": "Y2K Video Morph AI  Y2K 视频变幻",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2046510177809076225",
+  "name": "👶 RizzBaby AI 电眼萌娃",
+  "nodes": 8,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2046524951020179458",
+  "name": "⛸️💃SlickStep AI 丝滑步态",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2053519337440460802",
+  "name": "空白工作流",
+  "nodes": 46,
+  "hits": [
+   [
+    46,
+    "RH_RhartImageG2OfficialImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2053416435413733377",
+  "name": "空白工作流",
+  "nodes": 47,
+  "hits": [
+   [
+    167,
+    "RH_RhartImageG2OfficialImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2040397904212402178",
+  "name": "Al madelyn cline",
+  "nodes": 35,
+  "hits": [
+   [
+    278,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "2047221678131912705",
+  "name": "RH Nano Banana2",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_RhartImageNG31FlashOfficialImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2049018391452717058",
+  "name": "RH GPT Image 2.0",
+  "nodes": 4,
+  "hits": [
+   [
+    4,
+    "RH_RhartImageG2ImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2047541301461131265",
+  "name": "GamePage Manga AI 游戏页绘",
+  "nodes": 4,
+  "hits": [
+   [
+    2,
+    "RH_RhartImageG2ImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2047541280598663169",
+  "name": "Twilight Gacha Studio AI 暮光抽卡工坊I",
+  "nodes": 4,
+  "hits": [
+   [
+    2,
+    "RH_RhartImageG2ImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2047541292942499841",
+  "name": "TopDown Cos AI 俯拍 cos 创作",
+  "nodes": 4,
+  "hits": [
+   [
+    2,
+    "RH_RhartImageG2ImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2047541248508039169",
+  "name": "Onmyoji Character Builder AI 阴阳师角色面板",
+  "nodes": 4,
+  "hits": [
+   [
+    2,
+    "RH_RhartImageG2ImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2047610605745479682",
+  "name": "Diana's All-Out Dance Moves! 戴安娜疯狂舞动全开！",
+  "nodes": 7,
+  "hits": [
+   [
+    5,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2047512174247022594",
+  "name": "WrestleMag Layout AI 格斗杂志版式",
+  "nodes": 4,
+  "hits": [
+   [
+    2,
+    "RH_RhartImageG2ImageToImage"
+   ]
+  ]
+ },
+ {
+  "wid": "2046799910711857154",
+  "name": "GO! GO! ZEPPELI",
+  "nodes": 3,
+  "hits": [
+   [
+    3,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2046799921440886786",
+  "name": "StarStage AI",
+  "nodes": 3,
+  "hits": [
+   [
+    2,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2046555746829078530",
+  "name": "北斗",
+  "nodes": 7,
+  "hits": [
+   [
+    18,
+    "RH_KlingV30ProMotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2042222507708653570",
+  "name": "空白工作流",
+  "nodes": 8,
+  "hits": [
+   [
+    12,
+    "RH_RhartVideoSparkvideo20FastImageToVideo"
+   ]
+  ]
+ },
+ {
+  "wid": "2042174344465485826",
+  "name": "seedance2-battle-prompt",
+  "nodes": 8,
+  "hits": [
+   [
+    12,
+    "RH_RhartVideoSparkvideo20FastImageToVideo"
+   ],
+   [
+    14,
+    "RH_Captioner_Pro"
+   ]
+  ]
+ },
+ {
+  "wid": "2043573255352619010",
+  "name": "高抬腿",
+  "nodes": 23,
+  "hits": [
+   [
+    78,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "2041813902362681345",
+  "name": "转2D平面",
+  "nodes": 3,
+  "hits": [
+   [
+    5,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2037398239917383681",
+  "name": "JoStyle AI",
+  "nodes": 3,
+  "hits": [
+   [
+    16,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2034271442715545601",
+  "name": "拼贴工坊 AI",
+  "nodes": 4,
+  "hits": [
+   [
+    2,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2034267696275132417",
+  "name": "蜘蛛战衣 AI 工坊",
+  "nodes": 4,
+  "hits": [
+   [
+    4,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2033504918270644225",
+  "name": "航海王",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2029507212116234242",
+  "name": "抖音爆款特效克隆器 v2.0",
+  "nodes": 17,
+  "hits": [
+   [
+    8,
+    "RH_Nano_Banana2_Image2Image_Batch"
+   ],
+   [
+    9,
+    "RH_Kling_Video"
+   ],
+   [
+    10,
+    "RH_Kling_Video"
+   ],
+   [
+    11,
+    "RH_Kling_Video"
+   ],
+   [
+    12,
+    "RH_Kling_Video"
+   ],
+   [
+    13,
+    "RH_Kling_Video"
+   ]
+  ]
+ },
+ {
+  "wid": "2027773397161222146",
+  "name": "NanoBanana2",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Gemini31Flash"
+   ]
+  ]
+ },
+ {
+  "wid": "2025032448450498562",
+  "name": "空白工作流",
+  "nodes": 29,
+  "hits": [
+   [
+    22,
+    "RH_Captioner_Pro"
+   ],
+   [
+    27,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2019044103534682114",
+  "name": "Zimage工作流测试-JOJO",
+  "nodes": 29,
+  "hits": [
+   [
+    22,
+    "RH_Captioner_Pro"
+   ],
+   [
+    28,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2021829788553453569",
+  "name": "情人节合照",
+  "nodes": 6,
+  "hits": [
+   [
+    2,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2021542033109815298",
+  "name": "人偶",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2020879790047236097",
+  "name": "Myshell-南方公园滤镜",
+  "nodes": 3,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2020865623844196353",
+  "name": "Kling v3.0 Std, Kling 3.0 image-to-video, Kling 3.0",
+  "nodes": 6,
+  "hits": [
+   [
+    3,
+    "RH_Kling30_Std_Video"
+   ]
+  ]
+ },
+ {
+  "wid": "2020869834283687937",
+  "name": "Myshell版-亢奋",
+  "nodes": 28,
+  "hits": [
+   [
+    31,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2019645286523604994",
+  "name": "可灵视频",
+  "nodes": 7,
+  "hits": [
+   [
+    1,
+    "RH_Kling26_MotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2019972481204887553",
+  "name": "Myshell版-AI 颜值测试",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2018622564846800898",
+  "name": "拥抱亲人",
+  "nodes": 5,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2019774467584561154",
+  "name": "Zimage工作流测试-美晓",
+  "nodes": 30,
+  "hits": [
+   [
+    20,
+    "RH_Captioner_Pro"
+   ],
+   [
+    27,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2019725158138777602",
+  "name": "Keling v2.6 Motion Control",
+  "nodes": 8,
+  "hits": [
+   [
+    1,
+    "RH_Kling26_MotionControl"
+   ]
+  ]
+ },
+ {
+  "wid": "2019328878556225537",
+  "name": "Zimage工作流测试-Lucy style cosplay 新版",
+  "nodes": 30,
+  "hits": [
+   [
+    20,
+    "RH_Captioner_Pro"
+   ],
+   [
+    27,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2019078556545982466",
+  "name": "Zimage工作流测试-Lucy style cosplay",
+  "nodes": 30,
+  "hits": [
+   [
+    22,
+    "RH_Captioner_Pro"
+   ],
+   [
+    28,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2018634367773446146",
+  "name": "Myshell版-故去的亲人拥抱 AI",
+  "nodes": 51,
+  "hits": [
+   [
+    52,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2016327703577763842",
+  "name": "Zimage工作流测试",
+  "nodes": 30,
+  "hits": [
+   [
+    99,
+    "RH_Captioner_Pro"
+   ],
+   [
+    101,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2007803395146518530",
+  "name": "李沁Liqin-Z-image-高清修复工作流",
+  "nodes": 71,
+  "hits": [
+   [
+    675,
+    "RH_LLMAPI_Pro_Node"
+   ],
+   [
+    668,
+    "RH_Captioner_Pro"
+   ]
+  ]
+ },
+ {
+  "wid": "2018578379863236609",
+  "name": "Myshell版-情人节亲吻视频滤镜 AI",
+  "nodes": 52,
+  "hits": [
+   [
+    186,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2017176249713561601",
+  "name": "Myshell-Giant Prop Studio",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2015423863236071425",
+  "name": "Myshell-Nunchaku版-madelyn cline",
+  "nodes": 35,
+  "hits": [
+   [
+    278,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "2015383515688341505",
+  "name": "RH版-乐高2026工作室",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2014644647330582529",
+  "name": "空白工作流",
+  "nodes": 37,
+  "hits": [
+   [
+    110,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "2011765146506502146",
+  "name": "空白工作流",
+  "nodes": 6,
+  "hits": [
+   [
+    5,
+    "RH_Captioner_Pro"
+   ],
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2009915165860438018",
+  "name": "張芳瑜Veronica-Z-image-高清修复工作流",
+  "nodes": 69,
+  "hits": [
+   [
+    55,
+    "RH_Captioner_Pro"
+   ],
+   [
+    57,
+    "RH_LLMAPI_Pro_Node"
+   ]
+  ]
+ },
+ {
+  "wid": "2010905135840501761",
+  "name": "空白工作流",
+  "nodes": 6,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ],
+   [
+    7,
+    "RH_Captioner_Pro"
+   ]
+  ]
+ },
+ {
+  "wid": "2010608212092915714",
+  "name": "空白工作流",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2010321714634301442",
+  "name": "Reverse engineer prompt Practical flow joy3 joy2 Raw image comparison",
+  "nodes": 35,
+  "hits": [
+   [
+    116,
+    "RH_Translator"
+   ],
+   [
+    126,
+    "RH_Translator"
+   ]
+  ]
+ },
+ {
+  "wid": "2009869807256080386",
+  "name": "空白工作流",
+  "nodes": 64,
+  "hits": [
+   [
+    87,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "2009591791527399426",
+  "name": "潇潇2512",
+  "nodes": 42,
+  "hits": [
+   [
+    116,
+    "RH_Captioner_Pro"
+   ]
+  ]
+ },
+ {
+  "wid": "2009171306738094082",
+  "name": "GIF Animation Original nanobanana pro",
+  "nodes": 17,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2009184363421900801",
+  "name": "GIF拆分动画",
+  "nodes": 22,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2009173473251299329",
+  "name": "4个图片gif动画",
+  "nodes": 21,
+  "hits": [
+   [
+    19,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2009232983244410881",
+  "name": "KOOK_Qwen_2512 Zimage_Real Portrait",
+  "nodes": 55,
+  "hits": [
+   [
+    187,
+    "RH_Captioner_Pro"
+   ]
+  ]
+ },
+ {
+  "wid": "2009173326941396993",
+  "name": "GIF animation remake nanobanana pro",
+  "nodes": 22,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2004464925084971010",
+  "name": "阿凡达合照",
+  "nodes": 8,
+  "hits": [
+   [
+    48,
+    "RH_Jimeng4_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2007844843036352514",
+  "name": "寻秦记",
+  "nodes": 11,
+  "hits": [
+   [
+    23,
+    "RH_LLMAPI_Pro_Node"
+   ],
+   [
+    24,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2006647429726212098",
+  "name": "Hunyuan 1.5 Wen Sheng Video 720P",
+  "nodes": 11,
+  "hits": [
+   [
+    193,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1996492092882960386",
+  "name": "取下头盔",
+  "nodes": 36,
+  "hits": [
+   [
+    255,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "2003070741522317314",
+  "name": "Nunchaku flux.1 Krea dev Text-to-Image Auto Prompt 8-step Image Generation",
+  "nodes": 22,
+  "hits": [
+   [
+    48,
+    "RH_Translator"
+   ],
+   [
+    44,
+    "RH_LLMAPI_NODE"
+   ]
+  ]
+ },
+ {
+  "wid": "2002761935307325442",
+  "name": "Qwen Layered breaks down images into multiple transparent PNG layers",
+  "nodes": 98,
+  "hits": [
+   [
+    444,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1999134494147964930",
+  "name": "Myshell版-Santa's Surprise Hug",
+  "nodes": 28,
+  "hits": [
+   [
+    31,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1998304423011082241",
+  "name": "躺平了",
+  "nodes": 66,
+  "hits": [
+   [
+    139,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1993651089950130178",
+  "name": "Wan_2.2_FMLF-武士",
+  "nodes": 47,
+  "hits": [
+   [
+    27,
+    "RH_LLMAPI_NODE"
+   ]
+  ]
+ },
+ {
+  "wid": "1995495051700658177",
+  "name": "纸裂特效-Paper Burst",
+  "nodes": 35,
+  "hits": [
+   [
+    255,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1991892648178896897",
+  "name": "Nano Banana Pro所有人物在一起自拍",
+  "nodes": 5,
+  "hits": [
+   [
+    5,
+    "RH_Nano_Banana2_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1991154187226447873",
+  "name": "亡灵节",
+  "nodes": 5,
+  "hits": [
+   [
+    3,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1987739941281140737",
+  "name": "Nano Banana Google Big Banana Image Editing",
+  "nodes": 4,
+  "hits": [
+   [
+    1,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1983786412099215362",
+  "name": "Viduq2图生视频-南瓜头",
+  "nodes": 6,
+  "hits": [
+   [
+    37,
+    "RH_Vidu_Image2Video"
+   ]
+  ]
+ },
+ {
+  "wid": "1983197386698858498",
+  "name": "Sora2 Wen Sheng Video RH Direct Use Version!!!",
+  "nodes": 2,
+  "hits": [
+   [
+    9,
+    "RH_Sora2_T2V"
+   ]
+  ]
+ },
+ {
+  "wid": "1983197362707439617",
+  "name": "Sora2 Image to Video RH Direct Use Version!!",
+  "nodes": 6,
+  "hits": [
+   [
+    7,
+    "RH_Translator"
+   ],
+   [
+    5,
+    "RH_Sora2_I2V"
+   ]
+  ]
+ },
+ {
+  "wid": "1975085548215865345",
+  "name": "InfiniteTalk digital human livestreaming带货",
+  "nodes": 36,
+  "hits": [
+   [
+    61,
+    "RH_Translator"
+   ],
+   [
+    58,
+    "RH_ComfyFluxKontext"
+   ],
+   [
+    73,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1969744957856751617",
+  "name": "空白工作流",
+  "nodes": 4,
+  "hits": [
+   [
+    3,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1967060426338996225",
+  "name": "flux+SRPO+Wan2.2=The best image aesthetics",
+  "nodes": 42,
+  "hits": [
+   [
+    51,
+    "RH_Captioner"
+   ],
+   [
+    56,
+    "RH_Translator"
+   ]
+  ]
+ },
+ {
+  "wid": "1966338376356016130",
+  "name": "空白工作流",
+  "nodes": 82,
+  "hits": [
+   [
+    279,
+    "RH_Captioner"
+   ],
+   [
+    326,
+    "RH_Captioner"
+   ],
+   [
+    385,
+    "RH_Translator"
+   ]
+  ]
+ },
+ {
+  "wid": "1965984940854865922",
+  "name": "空白工作流",
+  "nodes": 83,
+  "hits": [
+   [
+    279,
+    "RH_Captioner"
+   ],
+   [
+    385,
+    "RH_Translator"
+   ],
+   [
+    326,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1962808248065736706",
+  "name": "空白工作流",
+  "nodes": 3,
+  "hits": [
+   [
+    2,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1961762268298067969",
+  "name": "WAN22 - 兔女郎服装",
+  "nodes": 34,
+  "hits": [
+   [
+    120,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1961436088420253698",
+  "name": "空白工作流",
+  "nodes": 5,
+  "hits": [
+   [
+    14,
+    "RH_Nano_Banana_Image2Image"
+   ]
+  ]
+ },
+ {
+  "wid": "1960706151774130177",
+  "name": "空白工作流",
+  "nodes": 39,
+  "hits": [
+   [
+    37,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1960538513806622722",
+  "name": "Myshell-Neon Genesis Evangelion Art Style",
+  "nodes": 22,
+  "hits": [
+   [
+    236,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1958809061485600769",
+  "name": "Qwen image 4 Steps t2i = youtube@aijuxi",
+  "nodes": 15,
+  "hits": [
+   [
+    75,
+    "RH_LLMAPI_NODE"
+   ]
+  ]
+ },
+ {
+  "wid": "1957785565164044289",
+  "name": "Instagirl WAN 2.2",
+  "nodes": 37,
+  "hits": [
+   [
+    30,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1957761201035116546",
+  "name": "Myshell - A Korean woman",
+  "nodes": 35,
+  "hits": [
+   [
+    156,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1957273774045458434",
+  "name": "冲浪",
+  "nodes": 49,
+  "hits": [
+   [
+    153,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1955636974503825410",
+  "name": "空白工作流",
+  "nodes": 31,
+  "hits": [
+   [
+    102,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1956205238497804290",
+  "name": "True King Bomb! wan2.2 One-click Nuke",
+  "nodes": 30,
+  "hits": [
+   [
+    140,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1955847813454331905",
+  "name": "提示词推导",
+  "nodes": 4,
+  "hits": [
+   [
+    74,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1955453765040181249",
+  "name": "被UFO带走",
+  "nodes": 30,
+  "hits": [
+   [
+    115,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1950878490931429377",
+  "name": "空白工作流",
+  "nodes": 4,
+  "hits": [
+   [
+    170,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1955276852103450625",
+  "name": "Yoshiaki Kawajiri style",
+  "nodes": 30,
+  "hits": [
+   [
+    103,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1952060546961100802",
+  "name": "Wan2.2 comparable to VEO3 IKEA unboxing advertisement video generation KJ",
+  "nodes": 43,
+  "hits": [
+   [
+    123,
+    "RH_LLMAPI_NODE"
+   ]
+  ]
+ },
+ {
+  "wid": "1942972634315309058",
+  "name": "KPop Demon Hunters Style",
+  "nodes": 34,
+  "hits": [
+   [
+    6,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1937432673457750017",
+  "name": "黑天使02",
+  "nodes": 27,
+  "hits": [
+   [
+    77,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1941486002513014785",
+  "name": "Mira (KPop Demon Hunters)-用户风格",
+  "nodes": 34,
+  "hits": [
+   [
+    99,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1941487067908173826",
+  "name": "Mira (KPop Demon Hunters)-Cinematic! 🎬",
+  "nodes": 34,
+  "hits": [
+   [
+    99,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1941396683752370177",
+  "name": "Mira (KPop Demon Hunters)-01",
+  "nodes": 32,
+  "hits": [
+   [
+    35,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1937750291921944577",
+  "name": "Realistic Transformation",
+  "nodes": 23,
+  "hits": [
+   [
+    80,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1937155481137782786",
+  "name": "黑天使",
+  "nodes": 22,
+  "hits": [
+   [
+    77,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1934121933225287681",
+  "name": "FramePack F1 Minshen latest algorithm generates video from image",
+  "nodes": 6,
+  "hits": [
+   [
+    30,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1933538666189078530",
+  "name": "Myshell-酷洛米",
+  "nodes": 28,
+  "hits": [
+   [
+    104,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1932077847022567425",
+  "name": "【Particle Generation】WAN2.1 Universal Particle Generation Video Effects",
+  "nodes": 30,
+  "hits": [
+   [
+    31,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1932074748916695041",
+  "name": "粒子视觉",
+  "nodes": 24,
+  "hits": [
+   [
+    76,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1931978917824147458",
+  "name": "皮卡丘队长",
+  "nodes": 28,
+  "hits": [
+   [
+    96,
+    "RH_Captioner"
+   ],
+   [
+    99,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1931917495064834050",
+  "name": "喷射战士3 渲染风格",
+  "nodes": 26,
+  "hits": [
+   [
+    128,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1931903438001471490",
+  "name": "塞尔达传奇",
+  "nodes": 35,
+  "hits": [
+   [
+    99,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1930861081479020546",
+  "name": "隐形人",
+  "nodes": 21,
+  "hits": [
+   [
+    74,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1927734716093612034",
+  "name": "间谍过家家RH-02版",
+  "nodes": 34,
+  "hits": [
+   [
+    103,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1925879211263741953",
+  "name": "间谍过家家",
+  "nodes": 37,
+  "hits": [
+   [
+    103,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1924770683836878850",
+  "name": "GTA6风格-Vice City Vision",
+  "nodes": 58,
+  "hits": [
+   [
+    211,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1924757764654944258",
+  "name": "吊打Flux,新王HiDream洗图Fast模式对比工作流-02",
+  "nodes": 30,
+  "hits": [
+   [
+    34,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1924750527815741441",
+  "name": "HiDreamFull image generation ComfyUI native support",
+  "nodes": 19,
+  "hits": [
+   [
+    87,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1924753021383659522",
+  "name": "【Latest】HiDream Image Cleaning Fast Mode",
+  "nodes": 11,
+  "hits": [
+   [
+    34,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1924658351949402114",
+  "name": "GTA6风格",
+  "nodes": 58,
+  "hits": [
+   [
+    211,
+    "RH_Captioner"
+   ]
+  ]
+ },
+ {
+  "wid": "1924653565040578561",
+  "name": "卡通3D盲盒手办玩具摆件-02",
+  "nodes": 36,
+  "hits": [
+   [
+    307,
+    "RH_Captioner"
+   ]
+  ]
+ }
+]

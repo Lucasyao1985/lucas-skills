@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Reddit Seed User Research skill intro image</title>
+  <desc id="desc">A ranked discussion interface card for the Reddit Seed User Research Codex skill.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#21120d"/>
+      <stop offset=".5" stop-color="#772f4a"/>
+      <stop offset="1" stop-color="#f18bad"/>
+    </linearGradient>
+    <pattern id="ticks" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M0 0h16M0 0v16" stroke="#ffb5ce" stroke-opacity=".2" stroke-width="3"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="12" dy="12" stdDeviation="0" flood-color="#02090b" flood-opacity=".6"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#ticks)"/>
+  <rect x="84" y="78" width="1032" height="520" fill="#071a1f" stroke="#ffb5ce" stroke-width="6" filter="url(#shadow)"/>
+  <rect x="84" y="78" width="1032" height="66" fill="#ff8ab4"/>
+  <circle cx="126" cy="112" r="12" fill="#071a1f"/>
+  <circle cx="166" cy="112" r="12" fill="#071a1f"/>
+  <circle cx="206" cy="112" r="12" fill="#071a1f"/>
+  <text x="250" y="123" fill="#071a1f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="700">SKILL / SEED USER MAP</text>
+  <text x="126" y="236" fill="#ffb5ce" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="58" font-weight="800">Reddit Seed</text>
+  <text x="126" y="304" fill="#ffb5ce" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="58" font-weight="800">User Research</text>
+  <text x="130" y="372" fill="#d7ffe8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="25">pain points + reply drafts + link policy</text>
+  <g transform="translate(700 198)">
+    <rect width="356" height="270" fill="#102a32" stroke="#ffb5ce" stroke-width="5"/>
+    <rect x="28" y="30" width="300" height="54" fill="#ffb5ce"/>
+    <rect x="28" y="110" width="300" height="54" fill="#d7ffe8"/>
+    <rect x="28" y="190" width="300" height="54" fill="#f7d55b"/>
+    <text x="52" y="65" fill="#071a1f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="25" font-weight="800">Reply now</text>
+    <text x="52" y="145" fill="#071a1f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="25" font-weight="800">Ask first</text>
+    <text x="52" y="225" fill="#071a1f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="25" font-weight="800">Monitor</text>
+  </g>
+  <rect x="126" y="470" width="622" height="58" fill="#ffb5ce" stroke="#071a1f" stroke-width="4"/>
+  <text x="152" y="508" fill="#071a1f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" font-weight="800">git clone skill-reddit-seed-user-research</text>
+</svg>

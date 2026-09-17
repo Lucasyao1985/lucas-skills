@@ -1,0 +1,20 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 运行产物 / 缓存（每次搜索重新生成）
+matched_jobs.json
+people_results.json
+responses.json
+expired_ids.json
+
+# 调试与输出文件
+*.png
+*.html
+
+# 个人笔记
+大致消耗.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
