@@ -14,9 +14,7 @@ metadata:
   author: crypto-signal-team
   version: "2.4.0"
 allowed-tools: Bash
-compatibility: 需要 Python 3.8+（脚本零第三方依赖）；ETF 覆盖层需模型侧网页抓取
-  能力（WebFetch）。数据源: Binance 现货+合约、OKX、CoinGecko、Fear & Greed、
-  Farside ETF。仅生成方向信号，不执行交易。
+compatibility: "需要 Python 3.8+（脚本零第三方依赖）；ETF 覆盖层需模型侧网页抓取能力（WebFetch）。数据源: Binance 现货+合约、OKX、CoinGecko、Fear & Greed、Farside ETF。仅生成方向信号，不执行交易。"
 ---
 
 # Crypto Signal Agent

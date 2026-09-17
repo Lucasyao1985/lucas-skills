@@ -1,11 +1,10 @@
 ---
 name: claude-code-upgrade
-description: Upgrade Claude Code CLI to the latest version. Diagnoses installation method (native vs npm-global), applies the correct upgrade command, and handles common pitfalls like CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC blocking updates. Triggers on: 升级 claude code, 更新 claude code, upgrade claude code, update claude code, claude update, 升级版本, update claude.
+description: "Upgrade Claude Code CLI to the latest version. Diagnoses installation method (native vs npm-global), applies the correct upgrade command, and handles common pitfalls like CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC blocking updates. Triggers on: 升级 claude code, 更新 claude code, upgrade claude code, update claude code, claude update, 升级版本, update claude."
 metadata:
   author: Lucas
   version: 1.1.0
-compatibility: 需要已安装 Claude Code CLI 与 claude 命令（PATH 或 C:\Users\Lucas\.local\bin\claude）。
-  npm-global 安装方式需要 Node.js/npm。
+compatibility: "需要已安装 Claude Code CLI 与 claude 命令（PATH 或 C:\\Users\\Lucas\\.local\\bin\\claude）。npm-global 安装方式需要 Node.js/npm。"
 ---
 
 # Claude Code Upgrade Skill

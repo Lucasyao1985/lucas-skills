@@ -1,6 +1,6 @@
 ---
 name: claude-code-config-doctor
-description: Diagnoses and fixes Claude Code configuration and model-connection errors across the full chain: Claude Code settings / environment variables, third-party model endpoints, LiteLLM / API gateways / proxies, providers, and Windows environments. Use when Claude Code shows unknown-model catalog warnings, context-window errors (200k/1M), "Content block not found", or 401/403/404/429/500/502/503 errors; when LiteLLM config.yaml, model mapping, ANTHROPIC_BASE_URL, ANTHROPIC_AUTH_TOKEN, startup scripts (.bat/.ps1), or environment-variable propagation are involved; or when the user asks to debug / align / trim settings.json, settings.local.json, or a LiteLLM proxy.
+description: "Diagnoses and fixes Claude Code configuration and model-connection errors across the full chain: Claude Code settings / environment variables, third-party model endpoints, LiteLLM / API gateways / proxies, providers, and Windows environments. Use when Claude Code shows unknown-model catalog warnings, context-window errors (200k/1M), \"Content block not found\", or 401/403/404/429/500/502/503 errors; when LiteLLM config.yaml, model mapping, ANTHROPIC_BASE_URL, ANTHROPIC_AUTH_TOKEN, startup scripts (.bat/.ps1), or environment-variable propagation are involved; or when the user asks to debug / align / trim settings.json, settings.local.json, or a LiteLLM proxy."
 ---
 
 # Claude Code Configuration Doctor

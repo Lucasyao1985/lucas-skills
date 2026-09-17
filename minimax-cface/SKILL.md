@@ -1,6 +1,6 @@
 ---
 name: minimax-cface
-description: MiniMax-CFace 可爱脸病毒短视频创作。基于角色参考图生成 MiniMax-H3（I2VA）视频提示词，用于角色 IP 二创、可爱角色短视频、搞笑变脸特效、Meme 风格 AI 视频、TikTok/Shorts/抖音爆款内容。当用户上传角色/人物/玩偶图片并要求生成搞怪变脸、可爱脸、弹性脸视频提示词，或要求把已有视频提示词套用/融合到新角色时使用。Triggers: 可爱脸, 搞怪变脸, 变脸短视频, cute face, funny face FX, elastic face, rubber mouth, giant head, meme 视频, viral video prompt, 角色一致性视频.
+description: "MiniMax-CFace 可爱脸病毒短视频创作。基于角色参考图生成 MiniMax-H3（I2VA）视频提示词，用于角色 IP 二创、可爱角色短视频、搞笑变脸特效、Meme 风格 AI 视频、TikTok/Shorts/抖音爆款内容。当用户上传角色/人物/玩偶图片并要求生成搞怪变脸、可爱脸、弹性脸视频提示词，或要求把已有视频提示词套用/融合到新角色时使用。Triggers: 可爱脸, 搞怪变脸, 变脸短视频, cute face, funny face FX, elastic face, rubber mouth, giant head, meme 视频, viral video prompt, 角色一致性视频."
 ---
 
 # MiniMax-CFace 可爱脸病毒短视频
