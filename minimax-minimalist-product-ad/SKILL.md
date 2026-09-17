@@ -1,5 +1,5 @@
 ---
-name: minimalist-product-ad-generator
+name: minimax-minimalist-product-ad
 description: |
   Turn product images and ad requirements into minimalist product ad shorts for e-commerce promotion and product launches. The Skill confirms format and product variants, extracts selling points, writes concise English ad copy, builds product anchors, plans beat-synced typography/storyboards, and generates a clean product film with premium camera language. Not for KOC talking-head ads, general editing, or complex screen demos.
 metadata:

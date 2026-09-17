@@ -1,29 +1,14 @@
 ---
 name: reddit-deal-closer
 description: >
-  Scan Reddit for people actively hiring developers to build custom AI tools, Claude Code skills,
-  browser automation scripts, Discord/Telegram bots, n8n workflows, or custom integrations.
-  Find leads who posted "looking for a developer", "willing to pay for a bot", "need someone to build",
-  or "is there a tool that…" (unmet need → custom build opportunity).
-  Full sales funnel: discover → qualify (budget/urgency/fit) → draft outreach → propose → close.
-
-  找什么人：在 Reddit 上主动发帖找开发者/求工具/有预算的个人和企业
-  接什么单：定制 Claude Code Skill、AI Agent 工作流、浏览器自动化、Discord Bot、n8n 工作流
-  怎么获客：搜 Reddit 雇佣帖/付费信号/工具求购帖 → 评分筛选 → 草拟英文沟通 → 报价成交
-
-  触发条件（任一命中）：
-  - 用户想在 Reddit 上找**付费开发**的机会（定制 skill / automation / bot / 脚本）
-  - 用户说"Reddit 有没有人要定制开发"、"帮我找需要开发 AI 工具的 Reddit 帖子"
-  - 用户说"扫描 Reddit 外包需求"、"Reddit 扫单"、"Reddit 找开发项目"
-  - 用户说"scan Reddit for dev gigs"、"find Reddit posts hiring developers"
-  - 用户说"Reddit bot commissions"、"find people who need custom tools built on Reddit"
-  - 用户说"Reddit 有人愿意花钱做 automation 吗"、"Reddit 接海外外包"
-  - 用户说"帮我在 Reddit 上找付费做 skill 的客户"
-
-  不触发（用其他 skill）：
-  - 帮某个**具体产品**找种子用户 → reddit-seed-user-research
-  - 普通 Reddit 搜索浏览 → 不需要 skill
-  - LinkedIn 找工作 / BOSS直聘找工作 → linkedin-jobs / zhipin
+  Scan Reddit for leads hiring developers for custom AI tools, Claude Code skills,
+  browser automation, Discord/Telegram bots, n8n workflows, or custom integrations.
+  Find posts like "looking for a developer", "willing to pay for a bot", "need someone to
+  build" (unmet need → custom build). Full sales funnel: discover → qualify → outreach → close.
+  触发条件（任一命中）：用户在 Reddit 找付费开发机会（定制 skill/自动化/bot/脚本）、
+  "Reddit 扫单/找开发项目/有没有人要定制开发/愿意花钱做 automation/接海外外包"。
+  不触发：帮具体产品找种子用户 → reddit-seed-user-research；普通 Reddit 搜索 → 不需要 skill；
+  LinkedIn/BOSS直聘找工作 → linkedin-jobs / zhipin。
 trigger: |
   触发关键词（任一命中即触发）：
   - Reddit + 定制开发/定制skill/定制工具/外包/找人开发/付费开发

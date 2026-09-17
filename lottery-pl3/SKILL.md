@@ -1,5 +1,5 @@
 ---
-name: pl3
+name: lottery-pl3
 description: '排列3走势数据分析工具。体彩官方API（webapi.sporttery.cn，gameNo=35）单一可靠源，多维度分析（遗漏值、冷热号、奇偶比、大小比、跨度、和值、012路、组选形态），生成智能号码推荐。Trigger: "分析排列三" "分析排列3" "推荐排列三号码" "排列三走势" "排列三冷热号" "排列3预测" "排列三预测" "排列3分析"'
 license: MIT
 metadata:

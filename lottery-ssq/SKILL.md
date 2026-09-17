@@ -1,5 +1,5 @@
 ---
-name: ssq
+name: lottery-ssq
 description: '双色球（SSQ）走势数据分析工具。500.com 数据源（cwl.gov.cn 已失效），多窗口分析（10/20/30/50期并行）、特征画像推荐、蓝球独立预测、复盘对比。Use when user asks 分析双色球、双色球走势、推荐双色球号码、双色球预测、ssq 分析。'
 license: MIT
 metadata:

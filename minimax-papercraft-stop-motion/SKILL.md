@@ -1,5 +1,5 @@
 ---
-name: papercraft-stop-motion-explainer
+name: minimax-papercraft-stop-motion
 description: For creators explaining science, education, or general knowledge through tactile handmade papercraft visuals. Users provide a topic, core knowledge points, or source material and may specify audience, duration, aspect ratio, and deliverable type. The Skill extracts the learning goal and visual metaphor, proposes creative directions, designs paper characters, layered diorama sets, and props, creates preview concepts plus image and video prompts, and plans storyboards, camera movement, transitions, and sound with staged approvals and review checklists. It outputs a production-ready papercraft stop-motion explainer package, or selected assets such as still prompts, image-series prompts, short-video prompts, or storyboards. Best for cut-paper, pop-up-book, layered diorama, and miniature stop-motion explainers; not for standard 2D cartoons, line doodles, live action, or explainers without a paper-art look.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: daletou
+name: lottery-daletou
 description: '大乐透走势数据分析工具。体彩官方API（webapi.sporttery.cn，gameNo=85）单一可靠源，多维度分析（遗漏值、冷热号、奇偶比、大小比、跨度、和值、012路、前后区分离分析），最大覆盖策略推荐。Trigger: "分析大乐透" "推荐大乐透号码" "大乐透走势" "大乐透冷热号" "大乐透预测" "dlt分析" "超级大乐透"'
 license: MIT
 metadata:

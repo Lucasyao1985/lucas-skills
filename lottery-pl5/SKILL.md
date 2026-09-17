@@ -1,5 +1,5 @@
 ---
-name: pl5
+name: lottery-pl5
 description: '排列5数据分析工具。体彩官方API（webapi.sporttery.cn，gameNo=350133）单一可靠源，5位数分析（万/千/百/十/个位）、和值、跨度、冷热号统计。Trigger: "分析排列5" "排列五预测" "排列5推荐" "排列5走势"'
 license: MIT
 metadata:
